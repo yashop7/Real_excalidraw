@@ -1,0 +1,11 @@
+{
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "@excalidraw/common": "workspace:*",
+    "@excalidraw/element": "workspace:*", 
+    "@excalidraw/math": "workspace:*",
+    "@excalidraw/utils": "workspace:*"
+  }
+}
